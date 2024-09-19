@@ -13,7 +13,6 @@ const config = {
       '@/*': './src/*'
     }
   }
-  
 };
 
 export default config;
